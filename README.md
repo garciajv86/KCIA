@@ -22,7 +22,7 @@ The Kansas Council of Instructional Administrators (KCIA) website is an informat
 ## Link
 
 Below are links to the deployed app and the repo:<br>
-[KCIA](https://skyline-tech-blog-2c90216c12f8.herokuapp.com/)<br>
+[KCIA](https://garciajv86.github.io/KCIA/)<br>
 [Project Repo](https://github.com/garciajv86/KCIA)
 
 ## ScreenShot
