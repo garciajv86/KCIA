@@ -22,7 +22,7 @@ The Kansas Council of Instructional Administrators (KCIA) website is an informat
 ## Link
 
 Below are links to the deployed app and the repo:<br>
-[KCIA](https://garciajv86.github.io/KCIA/)<br>
+[KCIA](https://kcia.gcccks.edu/)<br>
 [Project Repo](https://github.com/garciajv86/KCIA)
 
 ## ScreenShot
@@ -30,9 +30,9 @@ Below are links to the deployed app and the repo:<br>
 Website Screenshots:
 <br>
 
-![Home_Page_Screenshot](./_resources/images/Screenshots/homepage.png)
-![Committees_Page_Screenshot](./_resources/images/Screenshots/committees.png)
-![AboutUs_Page_Screenshot](./_resources/images/Screenshots/aboutus.png)
+![Home_Page_Screenshot](./assets/images/Screenshots/homepage.png)
+![Committees_Page_Screenshot](./assets/images/Screenshots/committees.png)
+![AboutUs_Page_Screenshot](./assets/images/Screenshots/aboutus.png)
 
 ## Installation
 
